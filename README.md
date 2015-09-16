@@ -6,4 +6,5 @@
 1. [MMPopupView](https://github.com/adad184/MMPopupView)
 2. [BonMot](https://github.com/Raizlabs/BonMot) An Objective-C attributed string generation library
 3. [Chameleon](https://github.com/ViccAlexander/Chameleon) Flat Color Framework for iOS (Obj-C & Swift)
-4. [CollectionViewClassifyMenu](https://github.com/dongdonggaui/CollectionViewClassifyMenu)
+4. [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)
+5. [动画库集合](https://github.com/sxyx2008/awesome-ios-animation)

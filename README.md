@@ -25,3 +25,5 @@
 20. [Tweaks](https://github.com/facebook/Tweaks)：Facebook开源的调试工具
 21. [MJRefresh](https://github.com/CoderMJLee/MJRefresh)：好用的下拉刷新
 22. [Whisper](https://github.com/hyperoslo/Whisper)：三种形式的通知
+23. [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker)：图片选取控件，支持发送原图
+24. [SCRecorder](https://github.com/rFlex/SCRecorder)：iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing

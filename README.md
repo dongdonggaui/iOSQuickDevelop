@@ -24,3 +24,10 @@
 19. [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)：强大的Cocoa log工具
 20. [Tweaks](https://github.com/facebook/Tweaks)：Facebook开源的调试工具
 21. [MJRefresh](https://github.com/CoderMJLee/MJRefresh)：好用的下拉刷新
+22. [R.swift](https://github.com/mac-cain13/R.swift)：本地资源管理，避免通过字符串访问
+23. [Laurine](https://github.com/JiriTrecak/Laurine)：本地化字符串管理
+24. [Quick](https://github.com/Quick/Quick)：swift单元测试框架
+25. [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)：log框架
+26. [SwiftLint](https://github.com/realm/SwiftLint)：swift语法检测工具
+27. [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)：imagePicker
+28. [AutocompleteField](https://github.com/filipstefansson/AutocompleteField)：自动补全

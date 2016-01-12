@@ -31,3 +31,6 @@
 26. [SwiftLint](https://github.com/realm/SwiftLint)：swift语法检测工具
 27. [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)：imagePicker
 28. [AutocompleteField](https://github.com/filipstefansson/AutocompleteField)：自动补全
+29. [Whisper](https://github.com/hyperoslo/Whisper)：三种形式的通知
+30. [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker)：图片选取控件，支持发送原图
+31. [SCRecorder](https://github.com/rFlex/SCRecorder)：iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing

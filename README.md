@@ -34,3 +34,4 @@
 29. [Whisper](https://github.com/hyperoslo/Whisper)：三种形式的通知
 30. [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker)：图片选取控件，支持发送原图
 31. [SCRecorder](https://github.com/rFlex/SCRecorder)：iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
+32. [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)：Easier way to push your viewController

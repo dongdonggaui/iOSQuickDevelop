@@ -35,3 +35,4 @@
 30. [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker)：图片选取控件，支持发送原图
 31. [SCRecorder](https://github.com/rFlex/SCRecorder)：iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
 32. [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)：Easier way to push your viewController
+33. [promisekit](https://github.com/mxcl/promisekit)：异步调用框架

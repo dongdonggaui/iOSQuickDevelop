@@ -1,3 +1,5 @@
+原文链接：http://swifter.tips/multiple-optional/
+
 1. 我们使用的类型后加上 ? 的语法只不过是 Optional 类型的语法糖
 2. 可以在 Optional 中装入任意东西的，甚至也包括 Optional 对象自身
 3. 将一个非nil的Optional赋值给多重Optional与直接赋值字面值给多重Optional是等效的，如`var string: String? = "string"` `var anotherString: String?? = string`与`var literalOptional: String?? = "string"`，根据类型判断，只能将Optional(String)放入到literalOptional，因此可以猜测到anotherStrig与literalOptional是等效的。

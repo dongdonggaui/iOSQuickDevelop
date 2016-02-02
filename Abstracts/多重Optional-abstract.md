@@ -1,4 +1,4 @@
-原文链接：http://swifter.tips/multiple-optional/
+原文链接：[http://swifter.tips/multiple-optional/](http://swifter.tips/multiple-optional/)
 
 1. 我们使用的类型后加上 ? 的语法只不过是 Optional 类型的语法糖
 2. 可以在 Optional 中装入任意东西的，甚至也包括 Optional 对象自身

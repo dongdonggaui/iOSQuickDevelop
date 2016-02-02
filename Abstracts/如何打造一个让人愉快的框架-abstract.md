@@ -1,4 +1,4 @@
-原文链接：http://onevcat.com/2016/01/create-framework/
+原文链接：[http://onevcat.com/2016/01/create-framework/](http://onevcat.com/2016/01/create-framework/)
 
 1. 什么是静态库 (Static Library)
 	- 一系列从源码编译的目标文件的集合，它是你的源码的实现所对应的二进制

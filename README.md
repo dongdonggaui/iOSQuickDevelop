@@ -36,3 +36,6 @@
 31. [SCRecorder](https://github.com/rFlex/SCRecorder)：iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
 32. [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)：Easier way to push your viewController
 33. [promisekit](https://github.com/mxcl/promisekit)：异步调用框架
+34. [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)：将 markdown 转换为 NSAttributeString 的框架
+35. [SwiftSVG](https://github.com/mchoe/SwiftSVG)：解析和显示 SVG 的库
+36. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)：统一管理导航栏转场以及当 push 或 pop 时使动画效果更佳顺滑的库，提供导航栏个性化管理功能

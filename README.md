@@ -1,4 +1,4 @@
-# iOSQuickDevelop
+# iOS 资源收集
 ## 1、集成SDK
 1. [Bugtags](https://bugtags.com)
 
@@ -40,3 +40,9 @@
 35. [SwiftSVG](https://github.com/mchoe/SwiftSVG)：解析和显示 SVG 的库
 36. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)：统一管理导航栏转场以及当 push 或 pop 时使动画效果更佳顺滑的库，提供导航栏个性化管理功能
 37. [plugin-directory](https://github.com/sketchplugins/plugin-directory)：sketch 插件集合
+
+## 3、Gitbook
+
+1. [iOS Core Animation 高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)：[iOS Core Animation: Advanced Techniques](http://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniques) 翻译版
+
+## 4、文章

@@ -40,6 +40,8 @@
 35. [SwiftSVG](https://github.com/mchoe/SwiftSVG)：解析和显示 SVG 的库
 36. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)：统一管理导航栏转场以及当 push 或 pop 时使动画效果更佳顺滑的库，提供导航栏个性化管理功能
 37. [plugin-directory](https://github.com/sketchplugins/plugin-directory)：sketch 插件集合
+38. [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)：Simple JSON Object mapping written in Swift
+39. [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)：An Alamofire extension which converts JSON response data into swift objects using ObjectMapper
 
 ## 3、Gitbook
 

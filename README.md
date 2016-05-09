@@ -42,6 +42,7 @@
 37. [plugin-directory](https://github.com/sketchplugins/plugin-directory)：sketch 插件集合
 38. [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)：Simple JSON Object mapping written in Swift
 39. [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)：An Alamofire extension which converts JSON response data into swift objects using ObjectMapper
+40. [ijkplayer](https://github.com/Bilibili/ijkplayer)：bilibili 开源的视频播放器
 
 ## 3、Gitbook
 

@@ -5,7 +5,7 @@
 ## 2、开源库
 1. [MMPopupView](https://github.com/adad184/MMPopupView)
 2. [BonMot](https://github.com/Raizlabs/BonMot)：An Objective-C attributed string generation library
-3. [Chameleon](https://github.com/ViccAlexander/Chameleon) Flat Color Framework for iOS (Obj-C & Swift)
+3. [Chameleon](https://github.com/ViccAlexander/Chameleon)：Flat Color Framework for iOS (Obj-C & Swift)
 4. [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)
 5. [动画库集合](https://github.com/sxyx2008/awesome-ios-animation)
 6. [Cartography](https://github.com/robb/Cartography)：Swift 约束框架，比 Monsary 更简洁
@@ -43,6 +43,11 @@
 38. [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)：Simple JSON Object mapping written in Swift
 39. [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)：An Alamofire extension which converts JSON response data into swift objects using ObjectMapper
 40. [ijkplayer](https://github.com/Bilibili/ijkplayer)：bilibili 开源的视频播放器
+41. [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)：An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews <http://marcuswest.in>
+42. [JSPatch](https://github.com/bang590/JSPatch)：JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
+43. [CoreStore](https://github.com/JohnEstropia/CoreStore)：基于 Core Data 的 API 封装，它能让我们利用 Swift 的特性以一种更好的方式使用 Core Data
+44. [Palau](https://github.com/symentis/Palau)：NSUserDefaults with Wings!（in Swift）
+45. [GCDKit](https://github.com/JohnEstropia/GCDKit)：在 Swift 中高效地使用 GCD
 
 ## 3、Gitbook
 
@@ -50,6 +55,11 @@
 
 ## 4、文章
 
-## 5、常用网站
+## 5、工具
+
+1. <http://sketchtoolbox.com>：Sketch 插件安装工具
+2. [sketch-iconfont](https://github.com/keremciu/sketch-iconfont)：Sketch 插件，可以很方便的用文本快速创建 icon
+
+## 6、常用网站
 
 1. <http://www.sketchcn.com>：sketch 中文网，包含使用技巧、资源站、社区

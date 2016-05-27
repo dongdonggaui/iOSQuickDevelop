@@ -48,6 +48,11 @@
 43. [CoreStore](https://github.com/JohnEstropia/CoreStore)：基于 Core Data 的 API 封装，它能让我们利用 Swift 的特性以一种更好的方式使用 Core Data
 44. [Palau](https://github.com/symentis/Palau)：NSUserDefaults with Wings!（in Swift）
 45. [GCDKit](https://github.com/JohnEstropia/GCDKit)：在 Swift 中高效地使用 GCD
+46. [SwiftLint](https://github.com/realm/SwiftLint)：Swift 静态分析工具
+47. [phabricator](https://github.com/phacility/phabricator)：一套强大的开源工具，提供 git、wiki、code review、tracking bugs 等一系列功能
+48. [fastlane](https://github.com/fastlane/fastlane)：自动化部署工具
+49. [SwiftFilePath](https://github.com/nori0620/SwiftFilePath)：封装 NSFileManager，更易用
+50. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)：强大好用的 hud
 
 ## 3、Gitbook
 
@@ -59,6 +64,7 @@
 
 1. <http://sketchtoolbox.com>：Sketch 插件安装工具
 2. [sketch-iconfont](https://github.com/keremciu/sketch-iconfont)：Sketch 插件，可以很方便的用文本快速创建 icon
+3. [shields.io](http://shields.io)：开源社区常用标签，如 ![](https://img.shields.io/wercker/ci/wercker/docs.svg)
 
 ## 6、常用网站
 

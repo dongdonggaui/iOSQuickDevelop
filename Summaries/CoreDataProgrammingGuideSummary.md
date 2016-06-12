@@ -1,5 +1,7 @@
 # Core Data Programming Guide
 
+[文档地址](https://developer.apple.com/library/watchos/documentation/Cocoa/Conceptual/CoreData)
+
 ## Managing Object Life Cycle
 
 ### Creating Managed Object Relationships
@@ -44,9 +46,13 @@ store 中的 record 和 `NSManagedObject` 是 **一对多** 的关系（在多�
 
 > In the Type field of the Relationship pane, you can specify a relationship as being to-one or to-many, which is known as its cardinality. To-one relationships are represented by a reference to the destination object and to-many relationships are represented by mutable sets. Implicitly, to-one and to-many typically refer to one-to-one and one-to-many relationships respectively. A many-to-many relationship is one where both a relationship and its inverse are to-many. How you model a many-to-many relationship depends on the semantics of your schema. For details on this type of relationship, see Many-to-Many Relationships.
 
-一对多的数量限制与 optional
+数量限制
 
-> You can also put upper and lower limits on the number of objects at the destination of a to-many relationship. The lower limit does not have to be zero. You can specify that the number of employees in a department must be between 3 and 40. You also specify a relationship as either optional or not optional. If a relationship is not optional, then for it to be valid there must be an object or objects at the destination of the relationship.
+> You can also put upper and lower limits on the number of objects at the destination of a to-many relationship. The lower limit does not have to be zero. You can specify that the number of employees in a department must be between 3 and 40.
+
+optional
+
+> You also specify a relationship as either optional or not optional. If a relationship is not optional, then for it to be valid there must be an object or objects at the destination of the relationship.
 
 数量限制和 optional 可以共存
 
@@ -222,22 +228,36 @@ let befriendedByPerson = aPerson.valueForKeyPath("befriendedBy.source")
 
 > Fetched properties represent weak, one-way relationships. In the employees and departments domain, a fetched property of a department might be Recent Hires. Employees do not have an inverse to the Recent Hires relationship.
 
-适合做夸库、松耦合、短暂临时分组关系建模
+适合做跨库、松耦合、短暂临时分组关系建模
 
 > In general, fetched properties are best suited to modeling cross-store relationships, loosely coupled relationships, and similar transient groupings.
 
 与关系的不同之处
 
-> * Rather than being a direct relationship, a fetched property's value is calculated using a fetch request. (The fetch request typically uses a predicate to constrain the result.)
-> * A fetched property is represented by an array (NSArray), not a set (NSSet). The fetch request associated with the property can have a sort ordering, and thus the fetched property may be ordered.
-> * A fetched property is evaluated lazily, and is subsequently cached.
+> * Rather than being a direct relationship, a fetched property's value is **calculated** using a fetch request. (The fetch request typically uses a predicate to constrain the result.)
+> * A fetched property is represented by an **array** (NSArray), not a set (NSSet). The fetch request associated with the property can have a sort ordering, and thus the fetched property may be **ordered**.
+> * A fetched property is evaluated **lazily**, and is subsequently **cached**.
 
 ![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CoreData/Art/Fetched_Property_2x.png)
 
-> In some respects you can think of a fetched property as being similar to a smart playlist, but with the important constraint that it is not dynamic. If objects in the destination entity are changed, you must reevaluate the fetched property to ensure it is up to date. You use refreshObject:mergeChanges: to manually refresh the properties—this causes the fetch request associated with this property to be executed again when the object fault is next fired.
+> In some respects you can think of a fetched property as being similar to a smart playlist, but with the important constraint that it is **not dynamic**. If objects in the destination entity are changed, you must **reevaluate** the fetched property to ensure it is up to date. You use `refreshObject:mergeChanges:` to manually refresh the properties—this causes the fetch request associated with this property to be executed again when the object fault is next fired.
 
-You can use two special variables in the predicate of a fetched property, $FETCH_SOURCE and $FETCHED_PROPERTY. The source refers to the specific managed object that has this property, and you can create key paths that originate with that source, for example, university.name LIKE [c] $FETCH_SOURCE.searchTerm. The $FETCHED_PROPERTY is the entity's fetched property description. The property description has a userInfo dictionary that you can populate with whatever key-value pairs you want. You can therefore change some expressions within a fetched property's predicate or any object to which that object is related.
+在 predicate 中用到的两个参数
 
-To understand how the variables work, consider a fetched property with a destination entity Author and a predicate of the form, (university.name LIKE [c] $FETCH_SOURCE.searchTerm) AND (favoriteColor LIKE [c] $FETCHED_PROPERTY.userInfo.color). If the source object had an attribute searchTerm equal to Cambridge, and the fetched property had a user info dictionary with a key color and value Green, then the resulting predicate would be (university.name LIKE [c] "Cambridge") AND (favoriteColor LIKE [c] "Green"). The fetched property would match any Authors at Cambridge whose favorite color is green. If you changed the value of searchTerm in the source object to Durham, then the predicate would be (university.name LIKE [c] "Durham") AND (favoriteColor LIKE [c] "Green").
+> You can use two special variables in the predicate of a fetched property, `$FETCH_SOURCE` and `$FETCHED_PROPERTY`. 
 
-The most significant constraint for fetched properties is that you cannot use substitutions to change the structure of the predicate — for example, you cannot change a LIKE predicate to a compound predicate, nor can you change the operator (in this example, LIKE [c]).
+$FETCH_SOURCE
+
+The source refers to the specific managed object that has this property, and you can create key paths that originate with that source, for example, `university.name LIKE [c] $FETCH_SOURCE.searchTerm`. 
+
+$FETCHED_PROPERTY
+
+> The `$FETCHED_PROPERTY` is the entity's fetched property description. The property description has a userInfo dictionary that you can populate with whatever key-value pairs you want. You can therefore change some expressions within a fetched property's predicate or any object to which that object is related.
+
+这两个参数如何工作
+
+> To understand how the variables work, consider a fetched property with a destination entity **Author** and a predicate of the form, **(university.name LIKE [c] $FETCH\_SOURCE.searchTerm) AND (favoriteColor LIKE [c] $FETCHED\_PROPERTY.userInfo.color)**. If the source object had an attribute searchTerm equal to Cambridge, and the fetched property had a user info dictionary with a key color and value Green, then the resulting predicate would be **(university.name LIKE [c] "Cambridge") AND (favoriteColor LIKE [c] "Green")**. The fetched property would match any Authors at Cambridge whose favorite color is green. If you changed the value of searchTerm in the source object to Durham, then the predicate would be **(university.name LIKE [c] "Durham") AND (favoriteColor LIKE [c] "Green")**.
+
+fetched properties 的限制
+
+> The most significant constraint for fetched properties is that you cannot use substitutions to change the structure of the predicate — for example, you cannot change a LIKE predicate to a compound predicate, nor can you change the operator (in this example, LIKE [c]).

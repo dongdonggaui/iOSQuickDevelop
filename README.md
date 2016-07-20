@@ -53,6 +53,7 @@
 48. [fastlane](https://github.com/fastlane/fastlane)：自动化部署工具
 49. [SwiftFilePath](https://github.com/nori0620/SwiftFilePath)：封装 NSFileManager，更易用
 50. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)：强大好用的 hud
+51. [LocationManager](https://github.com/intuit/LocationManager)：Easily get the device's current location on iOS
 
 ## 3、Gitbook
 
@@ -65,6 +66,7 @@
 1. <http://sketchtoolbox.com>：Sketch 插件安装工具
 2. [sketch-iconfont](https://github.com/keremciu/sketch-iconfont)：Sketch 插件，可以很方便的用文本快速创建 icon
 3. [shields.io](http://shields.io)：开源社区常用标签，如 ![](https://img.shields.io/wercker/ci/wercker/docs.svg)
+4. [jsoneditoronline](http://jsoneditoronline.org/)：JSON 在线编辑工具，超级好用
 
 ## 6、常用网站
 

@@ -2,6 +2,12 @@
 
 ## 1、Apple Docs
 
+1. [Concurrency Programming Guide](https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide)
+2. [Threaded Programming](https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/Multithreading/Introduction/Introduction.html)
+3. [Energy Efficiency Guide for iOS Apps](https://developer.apple.com/library/prerelease/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html)
+4. [Instruments User Guide](https://developer.apple.com/library/prerelease/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/MeasuringGraphicsPerformance.html)
+5. [Performance Overview](https://developer.apple.com/library/prerelease/content/documentation/Performance/Conceptual/PerformanceOverview/Introduction/Introduction.html)
+
 ## 2、集成SDK
 1. [Bugtags](https://bugtags.com)
 

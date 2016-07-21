@@ -1,8 +1,11 @@
 # iOS 资源收集
-## 1、集成SDK
+
+## 1、Apple Docs
+
+## 2、集成SDK
 1. [Bugtags](https://bugtags.com)
 
-## 2、开源库
+## 3、开源库
 1. [MMPopupView](https://github.com/adad184/MMPopupView)
 2. [BonMot](https://github.com/Raizlabs/BonMot)：An Objective-C attributed string generation library
 3. [Chameleon](https://github.com/ViccAlexander/Chameleon)：Flat Color Framework for iOS (Obj-C & Swift)
@@ -55,19 +58,23 @@
 50. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)：强大好用的 hud
 51. [LocationManager](https://github.com/intuit/LocationManager)：Easily get the device's current location on iOS
 
-## 3、Gitbook
+## 4、Gitbook
 
 1. [iOS Core Animation 高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)：[iOS Core Animation: Advanced Techniques](http://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniques) 翻译版
 
-## 4、文章
+## 5、文章
 
-## 5、工具
+## 6、工具
 
 1. <http://sketchtoolbox.com>：Sketch 插件安装工具
 2. [sketch-iconfont](https://github.com/keremciu/sketch-iconfont)：Sketch 插件，可以很方便的用文本快速创建 icon
 3. [shields.io](http://shields.io)：开源社区常用标签，如 ![](https://img.shields.io/wercker/ci/wercker/docs.svg)
 4. [jsoneditoronline](http://jsoneditoronline.org/)：JSON 在线编辑工具，超级好用
 
-## 6、常用网站
+## 7、Cheat Sheet 系列
+
+1. [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)：Github 秘籍
+
+## 8、常用网站
 
 1. <http://www.sketchcn.com>：sketch 中文网，包含使用技巧、资源站、社区

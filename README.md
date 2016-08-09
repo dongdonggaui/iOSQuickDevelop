@@ -7,6 +7,9 @@
 3. [Energy Efficiency Guide for iOS Apps](https://developer.apple.com/library/prerelease/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html)
 4. [Instruments User Guide](https://developer.apple.com/library/prerelease/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/MeasuringGraphicsPerformance.html)
 5. [Performance Overview](https://developer.apple.com/library/prerelease/content/documentation/Performance/Conceptual/PerformanceOverview/Introduction/Introduction.html)
+6. [Exception programming Topics](https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/Exceptions/Exceptions.html)
+7. [Error Handling Programming guide](https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/ErrorHandlingCocoa/ErrorHandling/ErrorHandling.html)
+8. [Understanding and Analyzing iOS Application Crash Reports](https://developer.apple.com/library/ios/technotes/tn2151/_index.html)
 
 ## 2、集成SDK
 1. [Bugtags](https://bugtags.com)
@@ -76,10 +79,16 @@
 2. [sketch-iconfont](https://github.com/keremciu/sketch-iconfont)：Sketch 插件，可以很方便的用文本快速创建 icon
 3. [shields.io](http://shields.io)：开源社区常用标签，如 ![](https://img.shields.io/wercker/ci/wercker/docs.svg)
 4. [jsoneditoronline](http://jsoneditoronline.org/)：JSON 在线编辑工具，超级好用
+5. [ImageOptim](https://imageoptim.com/mac)：压缩PNG图片来节省空间
+6. [Prepo](http://wearemothership.com/work/prepo/)：只需要拖动一个大图标文件（比如，1024\*1024）到Prepo，它就会生成512\*512的iTunesArtwork，114\*114的Icon@2x.png，以及其他的尺寸和文件名
+7. [Slender](http://martiancraft.com/products/slender.html)：可以分析你的应用，找出各种问题，比如缺少视网膜屏的图片，没用到的图片，能压缩的图片。使用Slender去除掉那些没用的图片，可以为你的iPhone应用节省好多空间
+8. [helios](https://github.com/helios-framework/helios)：iOS 后端工具
+9. [provisinfo](https://github.com/osrufung/provisinfo)：.mobileprivision 文件信息查看工具
 
 ## 7、Cheat Sheet 系列
 
 1. [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)：Github 秘籍
+2. [iOS 函数式编程](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)：iOS 函数式编程学习资源
 
 ## 8、常用网站
 

@@ -84,6 +84,7 @@
 7. [Slender](http://martiancraft.com/products/slender.html)：可以分析你的应用，找出各种问题，比如缺少视网膜屏的图片，没用到的图片，能压缩的图片。使用Slender去除掉那些没用的图片，可以为你的iPhone应用节省好多空间
 8. [helios](https://github.com/helios-framework/helios)：iOS 后端工具
 9. [provisinfo](https://github.com/osrufung/provisinfo)：.mobileprivision 文件信息查看工具
+10. [apifaker](https://github.com/hylin/apifaker)：API 模拟器，也可以作为建议的 API 文档管理工具
 
 ## 7、Cheat Sheet 系列
 

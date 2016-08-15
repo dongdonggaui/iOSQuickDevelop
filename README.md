@@ -2,6 +2,7 @@
 
 ## 1、Apple Docs
 
+1. [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines)
 1. [Concurrency Programming Guide](https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide)
 2. [Threaded Programming](https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/Multithreading/Introduction/Introduction.html)
 3. [Energy Efficiency Guide for iOS Apps](https://developer.apple.com/library/prerelease/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html)
@@ -10,6 +11,8 @@
 6. [Exception programming Topics](https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/Exceptions/Exceptions.html)
 7. [Error Handling Programming guide](https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/ErrorHandlingCocoa/ErrorHandling/ErrorHandling.html)
 8. [Understanding and Analyzing iOS Application Crash Reports](https://developer.apple.com/library/ios/technotes/tn2151/_index.html)
+9. [In-App Purchase FAQs](https://developer.apple.com/library/mac/technotes/tn2413/_index.html)
+10. [In-App Purchase Best Practices](https://developer.apple.com/library/ios/technotes/tn2387/_index.html)
 
 ## 2、集成SDK
 1. [Bugtags](https://bugtags.com)

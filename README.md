@@ -86,8 +86,9 @@
 6. [Prepo](http://wearemothership.com/work/prepo/)：只需要拖动一个大图标文件（比如，1024\*1024）到Prepo，它就会生成512\*512的iTunesArtwork，114\*114的Icon@2x.png，以及其他的尺寸和文件名
 7. [Slender](http://martiancraft.com/products/slender.html)：可以分析你的应用，找出各种问题，比如缺少视网膜屏的图片，没用到的图片，能压缩的图片。使用Slender去除掉那些没用的图片，可以为你的iPhone应用节省好多空间
 8. [helios](https://github.com/helios-framework/helios)：iOS 后端工具
-9. [provisinfo](https://github.com/osrufung/provisinfo)：.mobileprivision 文件信息查看工具
+9. [provisinfo](https://github.com/osrufung/provisinfo)：.mobileprovision 文件信息查看工具
 10. [apifaker](https://github.com/hylin/apifaker)：API 模拟器，也可以作为建议的 API 文档管理工具
+11. [Provisioning](https://github.com/chockenberry/Provisioning)：Mac QuickLoop 插件，可以预览 .mobileprovision 文件的详细信息
 
 ## 7、Cheat Sheet 系列
 

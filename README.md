@@ -69,6 +69,7 @@
 49. [SwiftFilePath](https://github.com/nori0620/SwiftFilePath)：封装 NSFileManager，更易用
 50. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)：强大好用的 hud
 51. [LocationManager](https://github.com/intuit/LocationManager)：Easily get the device's current location on iOS
+52. [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case)：Snapshot view unit tests for iOS
 
 ## 4、Gitbook
 

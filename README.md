@@ -70,6 +70,14 @@
 50. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)：强大好用的 hud
 51. [LocationManager](https://github.com/intuit/LocationManager)：Easily get the device's current location on iOS
 52. [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case)：Snapshot view unit tests for iOS
+53. [YLSwipeLockView](https://github.com/XiaoYulong/YLSwipeLockView)：手势锁
+54. [Navajo](https://github.com/mattt/Navajo)：密码强度验证
+55. [MasterPassword](https://github.com/Lyndir/MasterPassword)：一套完整的密码管理方案，多平台支持
+56. [keeweb](https://github.com/keeweb/keeweb)：web+mac 端密码管理工具
+57. [Sparkle](https://github.com/sparkle-project/Sparkle)：Mac 更新框架
+58. [SAMKeychain](https://github.com/soffes/SAMKeychain)：Keychain 封装
+59. [MaterialKit](https://github.com/nghialv/MaterialKit)：Google 材质风格 kit 集
+60. [lottie-ios](https://github.com/airbnb/lottie-ios)：Adobe After Effects animations
 
 ## 4、Gitbook
 
@@ -90,6 +98,7 @@
 9. [provisinfo](https://github.com/osrufung/provisinfo)：.mobileprovision 文件信息查看工具
 10. [apifaker](https://github.com/hylin/apifaker)：API 模拟器，也可以作为建议的 API 文档管理工具
 11. [Provisioning](https://github.com/chockenberry/Provisioning)：Mac QuickLoop 插件，可以预览 .mobileprovision 文件的详细信息
+12. [PPiOS-Rename](https://github.com/preemptive/PPiOS-Rename)：iOS 代码混淆
 
 ## 7、Cheat Sheet 系列
 

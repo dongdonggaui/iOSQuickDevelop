@@ -99,6 +99,7 @@
 10. [apifaker](https://github.com/hylin/apifaker)：API 模拟器，也可以作为建议的 API 文档管理工具
 11. [Provisioning](https://github.com/chockenberry/Provisioning)：Mac QuickLoop 插件，可以预览 .mobileprovision 文件的详细信息
 12. [PPiOS-Rename](https://github.com/preemptive/PPiOS-Rename)：iOS 代码混淆
+13. [mantisbt](https://github.com/mantisbt/mantisbt)：PHP 开发的 bug 追踪管理平台
 
 ## 7、Cheat Sheet 系列
 

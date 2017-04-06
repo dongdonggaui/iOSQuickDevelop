@@ -78,6 +78,7 @@
 58. [SAMKeychain](https://github.com/soffes/SAMKeychain)：Keychain 封装
 59. [MaterialKit](https://github.com/nghialv/MaterialKit)：Google 材质风格 kit 集
 60. [lottie-ios](https://github.com/airbnb/lottie-ios)：Adobe After Effects animations
+61. [Sonar](https://github.com/thefuntasty/Sonar)：雷达效果视图，基于 Swift 开发
 
 ## 4、Gitbook
 
@@ -100,6 +101,8 @@
 11. [Provisioning](https://github.com/chockenberry/Provisioning)：Mac QuickLoop 插件，可以预览 .mobileprovision 文件的详细信息
 12. [PPiOS-Rename](https://github.com/preemptive/PPiOS-Rename)：iOS 代码混淆
 13. [mantisbt](https://github.com/mantisbt/mantisbt)：PHP 开发的 bug 追踪管理平台
+14. [sonarqube](https://github.com/SonarSource/sonarqube)：代码质量管理工具，静态分析等，支持 OC、Swift
+15. [line-counter](https://github.com/MorganZhang100/line-counter)：Python 开发的代码行数统计工具
 
 ## 7、Cheat Sheet 系列
 

@@ -79,12 +79,15 @@
 59. [MaterialKit](https://github.com/nghialv/MaterialKit)：Google 材质风格 kit 集
 60. [lottie-ios](https://github.com/airbnb/lottie-ios)：Adobe After Effects animations
 61. [Sonar](https://github.com/thefuntasty/Sonar)：雷达效果视图，基于 Swift 开发
+62. [BugReportKit](https://github.com/rahuljiresal/BugReportKit)：Bug 上报框架
 
 ## 4、Gitbook
 
 1. [iOS Core Animation 高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)：[iOS Core Animation: Advanced Techniques](http://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniques) 翻译版
 
 ## 5、文章
+
+1. [osx-re-101](https://github.com/michalmalik/osx-re-101)：macOS&iOS 逆向资源
 
 ## 6、工具
 

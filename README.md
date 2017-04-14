@@ -82,6 +82,7 @@
 61. [Sonar](https://github.com/thefuntasty/Sonar)：雷达效果视图，基于 Swift 开发
 62. [BugReportKit](https://github.com/rahuljiresal/BugReportKit)：Bug 上报框架
 63. [LDNetDiagnoService_IOS](https://github.com/Lede-Inc/LDNetDiagnoService_IOS)：网络诊断
+64. [VGGNet-Metal](https://github.com/hollance/VGGNet-Metal)：图像识别
 
 ## 4、Gitbook
 

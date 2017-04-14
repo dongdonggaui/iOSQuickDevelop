@@ -16,6 +16,7 @@
 
 ## 2、集成SDK
 1. [Bugtags](https://bugtags.com)
+2. [DeepBeliefSDK](https://github.com/jetpacapp/DeepBeliefSDK)：图像识别框架
 
 ## 3、开源库
 1. [MMPopupView](https://github.com/adad184/MMPopupView)
@@ -80,6 +81,7 @@
 60. [lottie-ios](https://github.com/airbnb/lottie-ios)：Adobe After Effects animations
 61. [Sonar](https://github.com/thefuntasty/Sonar)：雷达效果视图，基于 Swift 开发
 62. [BugReportKit](https://github.com/rahuljiresal/BugReportKit)：Bug 上报框架
+63. [LDNetDiagnoService_IOS](https://github.com/Lede-Inc/LDNetDiagnoService_IOS)：网络诊断
 
 ## 4、Gitbook
 
@@ -106,6 +108,7 @@
 13. [mantisbt](https://github.com/mantisbt/mantisbt)：PHP 开发的 bug 追踪管理平台
 14. [sonarqube](https://github.com/SonarSource/sonarqube)：代码质量管理工具，静态分析等，支持 OC、Swift
 15. [line-counter](https://github.com/MorganZhang100/line-counter)：Python 开发的代码行数统计工具
+16. [testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)：测试用例管理平台
 
 ## 7、Cheat Sheet 系列
 

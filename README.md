@@ -86,15 +86,19 @@
 65. [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)：UICollectionView layout
 66. [IGListKit](https://github.com/Instagram/IGListKit)：Instagram 开源的 data-driven 列表框架
 
-## 4、Gitbook
+## 4、Xcode 插件
+
+1. [injectionforxcode](https://github.com/johnno1962/injectionforxcode)：Xcode 动态调试插件
+
+## 5、Gitbook
 
 1. [iOS Core Animation 高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)：[iOS Core Animation: Advanced Techniques](http://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniques) 翻译版
 
-## 5、文章
+## 6、文章
 
 1. [osx-re-101](https://github.com/michalmalik/osx-re-101)：macOS&iOS 逆向资源
 
-## 6、工具
+## 7、工具
 
 1. <http://sketchtoolbox.com>：Sketch 插件安装工具
 2. [sketch-iconfont](https://github.com/keremciu/sketch-iconfont)：Sketch 插件，可以很方便的用文本快速创建 icon
@@ -113,11 +117,11 @@
 15. [line-counter](https://github.com/MorganZhang100/line-counter)：Python 开发的代码行数统计工具
 16. [testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)：测试用例管理平台
 
-## 7、Cheat Sheet 系列
+## 8、Cheat Sheet 系列
 
 1. [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)：Github 秘籍
 2. [iOS 函数式编程](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)：iOS 函数式编程学习资源
 
-## 8、常用网站
+## 9、常用网站
 
 1. <http://www.sketchcn.com>：sketch 中文网，包含使用技巧、资源站、社区

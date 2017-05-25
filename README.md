@@ -116,6 +116,8 @@
 14. [sonarqube](https://github.com/SonarSource/sonarqube)：代码质量管理工具，静态分析等，支持 OC、Swift
 15. [line-counter](https://github.com/MorganZhang100/line-counter)：Python 开发的代码行数统计工具
 16. [testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)：测试用例管理平台
+17. [iOS-LinkMapAnalyzer](https://github.com/778477/iOS-LinkMapAnalyzer)：iOS LinkMap 分析命令行工具
+18. [LinkMap](https://github.com/huanxsd/LinkMap)：iOS LinkMap 分析工具 Mac app 版
 
 ## 8、Cheat Sheet 系列
 

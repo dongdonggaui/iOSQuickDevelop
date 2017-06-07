@@ -87,6 +87,10 @@
 66. [IGListKit](https://github.com/Instagram/IGListKit)：Instagram 开源的 data-driven 列表框架
 67. [Motif](https://github.com/erichoracek/Motif)：主题样式工具
 68. [Pastel](https://github.com/cruisediary/Pastel)：基于 Swift 的渐变动画视图
+69. [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS)：iOS port from libphonenumber (Google's phone number handling library)
+70. [CUSSender](https://github.com/JJMM/CUSSender)：仿微信的表情雨效果
+71. [UIEffectDesignerView](https://github.com/icanzilb/UIEffectDesignerView)：粒子动画效果视图
+72. [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect)：粒子动画
 
 ## 4、Xcode 插件
 
@@ -121,6 +125,7 @@
 17. [iOS-LinkMapAnalyzer](https://github.com/778477/iOS-LinkMapAnalyzer)：iOS LinkMap 分析命令行工具
 18. [LinkMap](https://github.com/huanxsd/LinkMap)：iOS LinkMap 分析工具 Mac app 版
 19. [appsight.io](https://www.appsight.io)：分析 App 使用了哪些库，可用于检测哪些 App 是你的库的使用者
+20. [you-get](https://github.com/soimort/you-get)：基于 Python 的 web 视频下载工具
 
 ## 8、Cheat Sheet 系列
 

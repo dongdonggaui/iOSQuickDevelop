@@ -91,6 +91,8 @@
 70. [CUSSender](https://github.com/JJMM/CUSSender)：仿微信的表情雨效果
 71. [UIEffectDesignerView](https://github.com/icanzilb/UIEffectDesignerView)：粒子动画效果视图
 72. [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect)：粒子动画
+73. [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)：适合 UIBarButtonItem 中使用的有切换动画效果的按钮
+74. [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)：即插即用的键盘管理工具，解决键盘遮挡输入框问题
 
 ## 4、Xcode 插件
 
@@ -116,7 +118,7 @@
 8. [helios](https://github.com/helios-framework/helios)：iOS 后端工具
 9. [provisinfo](https://github.com/osrufung/provisinfo)：.mobileprovision 文件信息查看工具
 10. [apifaker](https://github.com/hylin/apifaker)：API 模拟器，也可以作为建议的 API 文档管理工具
-11. [Provisioning](https://github.com/chockenberry/Provisioning)：Mac QuickLoop 插件，可以预览 .mobileprovision 文件的详细信息
+11. [Provisioning](https://github.com/chockenberry/Provisioning)：Mac QuickLook 插件，可以预览 .mobileprovision 文件的详细信息
 12. [PPiOS-Rename](https://github.com/preemptive/PPiOS-Rename)：iOS 代码混淆
 13. [mantisbt](https://github.com/mantisbt/mantisbt)：PHP 开发的 bug 追踪管理平台
 14. [sonarqube](https://github.com/SonarSource/sonarqube)：代码质量管理工具，静态分析等，支持 OC、Swift
@@ -126,6 +128,9 @@
 18. [LinkMap](https://github.com/huanxsd/LinkMap)：iOS LinkMap 分析工具 Mac app 版
 19. [appsight.io](https://www.appsight.io)：分析 App 使用了哪些库，可用于检测哪些 App 是你的库的使用者
 20. [you-get](https://github.com/soimort/you-get)：基于 Python 的 web 视频下载工具
+21. [sonarqube](https://github.com/SonarSource/sonarqube)：静态代码监控平台工具
+22. [WebPQuickLook](https://github.com/emin/WebPQuickLook)：webp Mac 预览插件
+23. [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)：有用的 Mac 预览插件集合
 
 ## 8、Cheat Sheet 系列
 
